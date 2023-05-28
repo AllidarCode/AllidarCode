@@ -7,8 +7,8 @@ PHP, Node.js, Javascrpit devoloper
 I am a PHP developer with 2 years of experience, I Since 2017 I studied law, but always loved new technologies. In 2020, I started my career as a PHP and JavaScript developer. At the same time, I was practicing law in the field of civil and commercial law. After some time in 2021, I started working with Laravel and Symphony frameworks. For two years I worked both as a freelancer. Now I have plans to expand my knowledge of PHP as much as possible and also learn new languages like Go. In the current year, 2023, I want to start the transition to the WEB 3.0 paradigm.
 
 * 🌍  I'm based in Kiev
-* ✉️  You can contact me at [allidars.code@gmail.com](mailto:allidars.code@gmail.com)* 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=100&size=16&pause=1000&color=A2E9F7&lines=Telegram%3A+%40allidar)](https://t.me/allidar)
+* ✉️  You can contact me at [allidars.code@gmail.com](mailto:allidars.code@gmail.com)
+* ✉️  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=100&size=16&pause=1000&color=A2E9F7&lines=Telegram%3A+%40allidar)](https://t.me/allidar)
 
 ### Skills
 
