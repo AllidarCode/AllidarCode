@@ -8,7 +8,7 @@ I am a PHP developer with 2 years of experience, I Since 2017 I studied law, but
 
 * 🌍  I'm based in Kiev
 * ✉️  You can contact me at [allidars.code@gmail.com](mailto:allidars.code@gmail.com)
-* ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AFEEEE&lines=Telegram:+@allidar)](https://t.me/allidar)
+* [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AFEEEE&lines=Telegram:+@allidar)](https://t.me/allidar)
 
 ### Skills
 
