@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Volodymyr Sukhenko
 ==========================================================================================================================================
 
-PHP, Node.js, Javascrpit devoloper
+PHP - main, Node.js, Javascrpit devoloper
 ----------------------------------
 
 I am a PHP developer with 2 years of experience, I Since 2017 I studied law, but always loved new technologies. In 2020, I started my career as a PHP and JavaScript developer. At the same time, I was practicing law in the field of civil and commercial law. After some time in 2021, I started working with Laravel and Symphony frameworks. For two years I worked both as a freelancer. Now I have plans to expand my knowledge of PHP as much as possible and also learn new languages like Go. In the current year, 2023, I want to start the transition to the WEB 3.0 paradigm.
