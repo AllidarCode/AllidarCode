@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Volodymyr Sukhenko
+Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Volodymyr Sukhenko
 ==========================================================================================================================================
 
 PHP - main, Node.js, Javascrpit devoloper
@@ -55,7 +55,7 @@ I am a PHP developer with 2 years of experience, I Since 2017 I studied law, but
 </p>
 
 
-### Socials
+### More socials
 
 <p align="left"> <a href="https://discord.com/users/ΔllĮda𝕣𝓢𝓤#9805" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AllidarCode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/allidarsu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/allidarsu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://join.skype.com/invite/K867EHNWMqs0" target="_blank" rel="noreferrer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='32'> 
