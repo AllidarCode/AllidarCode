@@ -1,7 +1,7 @@
-Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Volodymyr Sukhenko
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Volodymyr Sukhenko
 ==========================================================================================================================================
 
-PHP - main, Node.js, Javascrpit devoloper
+PHP, Node.js, JS devoloper
 ----------------------------------
 
 I am a PHP developer with 2 years of experience, I Since 2017 I studied law, but always loved new technologies. In 2020, I started my career as a PHP and JavaScript developer. At the same time, I was practicing law in the field of civil and commercial law. After some time in 2021, I started working with Laravel and Symphony frameworks. For two years I worked both as a freelancer. Now I have plans to expand my knowledge of PHP as much as possible and also learn new languages like Go. In the current year, 2023, I want to start the transition to the WEB 3.0 paradigm.
@@ -10,7 +10,7 @@ I am a PHP developer with 2 years of experience, I Since 2017 I studied law, but
 * ✉️  You can contact me at [allidars.code@gmail.com](mailto:allidars.code@gmail.com)
 * [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=100&size=16&pause=1000&color=C0E3F7FF&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&multiline=true&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=170&height=24&lines=Telegram%3A+%40allidar)](https://t.me/allidar)
 
-### Skills
+### Skills:
 
 
 <p align="left">
@@ -55,7 +55,7 @@ I am a PHP developer with 2 years of experience, I Since 2017 I studied law, but
 </p>
 
 
-### More socials
+### More socials:
 
 <p align="left"> <a href="https://discord.com/users/ΔllĮda𝕣𝓢𝓤#9805" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AllidarCode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/allidarsu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/allidarsu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://join.skype.com/invite/K867EHNWMqs0" target="_blank" rel="noreferrer"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='32'> 
